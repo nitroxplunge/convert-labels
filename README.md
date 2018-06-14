@@ -2,7 +2,7 @@
 
 ## Dependencies:
 
-#Python 2.7
+# Python 2.7
 
 PIL
 `pip install pillow`
